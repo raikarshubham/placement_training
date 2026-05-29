@@ -3,7 +3,9 @@ using namespace std;
 
 int main(){
     int rev=0;
-    int num=121;
+    int num;
+    cout<<"Enter the Number: "<<endl;
+    cin>>num;
     int temp=num;
     while(num>0){
         int digit=num % 10;

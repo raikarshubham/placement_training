@@ -1,0 +1,1 @@
+g++ pgm_name.cpp -o pgm_name && pgm_name
