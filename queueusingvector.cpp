@@ -15,7 +15,7 @@ public:
             cout << "Queue is empty\n";
             return;
         }
-        v.erase(v.begin());   // removes front element
+        v.erase(v.begin());
     }
 
     int front() {
