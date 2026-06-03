@@ -1,1 +1,5 @@
 g++ pgm_name.cpp -o pgm_name && pgm_name
+
+1,12,17,20,22,27,30,41,33,43,50
+27
+1
